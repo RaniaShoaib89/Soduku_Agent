@@ -40,7 +40,7 @@ SOLUTION:
 STATISTICS:
   Backtrack function calls:      82
   Backtrack function failures:   0
-  Time elapsed:                  0.4664 seconds
+  Time elapsed:                  0.3982 seconds
 
 ANALYSIS:
   Total assignments attempted:  82
@@ -82,7 +82,7 @@ SOLUTION:
 STATISTICS:
   Backtrack function calls:      90
   Backtrack function failures:   8
-  Time elapsed:                  0.3944 seconds
+  Time elapsed:                  0.4526 seconds
 
 ANALYSIS:
   Total assignments attempted:  90
@@ -124,7 +124,7 @@ SOLUTION:
 STATISTICS:
   Backtrack function calls:      139
   Backtrack function failures:   57
-  Time elapsed:                  0.6444 seconds
+  Time elapsed:                  1.1118 seconds
 
 ANALYSIS:
   Total assignments attempted:  139
@@ -166,7 +166,7 @@ SOLUTION:
 STATISTICS:
   Backtrack function calls:      89
   Backtrack function failures:   7
-  Time elapsed:                  0.4141 seconds
+  Time elapsed:                  0.5695 seconds
 
 ANALYSIS:
   Total assignments attempted:  89
@@ -181,4 +181,4 @@ SUMMARY
 Total puzzles solved: 4/4
 Total backtrack calls: 400
 Total backtrack failures: 72
-Total time: 1.9193 seconds
+Total time: 2.5322 seconds
