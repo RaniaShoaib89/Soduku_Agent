@@ -280,17 +280,3 @@ The solver generates:
 - GUI for interactive solving
 - Benchmark against other algorithms
 
-## References
-
-- Russell, S. J., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.)
-- AC-3 Algorithm: Mackworth, A. K. (1977)
-- Sudoku complexity analysis: Yato, T., & Seta, T. (2003)
-
-## License
-
-This project is open source and available for educational purposes.
-
-## Author
-
-CSP-Based Sudoku Solver Implementation
-Built with focus on constraint satisfaction and algorithmic efficiency.
